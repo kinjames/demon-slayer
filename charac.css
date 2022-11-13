@@ -75,9 +75,7 @@ h1{
     margin: 10px;
     border: 2px solid black;
     border-radius: 6px;
-    /* font-family: 'Caveat', cursive; */
     font-weight: bold;
-    /* font-size: 45px; */
     box-shadow: 0 0 10px black;
     background-image: linear-gradient(to right, orange, white, orange);
     cursor: pointer;
