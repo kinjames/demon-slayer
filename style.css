@@ -149,9 +149,7 @@ h1{
 }
 
 /*  */
-/* .last1{
-    display: block;
-} */
+
 .lstc{
     background-image: linear-gradient(to right, orange, white, orange);
     display: flex;
