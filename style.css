@@ -85,6 +85,8 @@ h1{
     justify-content: center;
     align-items: center;
     gap: 35px;
+    padding: 1.25rem 0;
+    margin: 1.25rem 0;
 
 }
 
