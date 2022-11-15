@@ -33,7 +33,6 @@ body{
 h1{
     background-image: linear-gradient(to right, orange, white, orange);
     text-transform: uppercase;
-    /* font-family: 'Lobster', cursive; */
     margin: 25px;
     justify-content: center;
     align-items: center;
@@ -122,7 +121,6 @@ h1{
     margin: 10px;
     border: 2px solid black;
     border-radius: 6px;
-    /* font-family: 'Caveat', cursive; */
     font-weight: bold;
     box-shadow: 0 0 10px black;
     background-image: linear-gradient(to right, orange, white, orange);
@@ -192,7 +190,6 @@ h1{
     .hash{
         color: gray;
         font-weight: bold;
-        /* text-shadow: 1px 1px 1px #000000; */
         font-size: 35px;
     }
 }
@@ -213,7 +210,6 @@ h1{
     font-family: 'Courgette', cursive;
     padding: 15px;
     font-size: 25px;
-    /* height: 30vh; */
 }
 
 @media only screen and (max-width:600px){
@@ -254,10 +250,8 @@ h1{
     border-radius: 10px;
     width: 100%;
     margin-right: 10px;
-    /* padding: 15px; */
     box-shadow: 0 0 10px black;
     border-radius: 10px;
-    /* margin-left: 10px; */
 }
 
 @media only screen and (max-width:600px){
@@ -277,7 +271,6 @@ h1{
 
     .images img{
         margin-bottom: 25px;
-        /* padding-right: 15px; */
         box-shadow: 0 0 10px black;
         border-radius: 10px;
     }

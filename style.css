@@ -9,6 +9,7 @@ html {
 
 body {
     margin: 0;
+    width: 100%;
 }
 
 #video{
@@ -28,8 +29,6 @@ h1{
     text-transform: capitalize;
     color: white;
     font-size: 50px;
-    /* background-color: rgba(0, 0, 0, 0.7);
-    box-shadow: 0 0 2em rgb(69 69 69); */
     width: 100%;
     font-family: 'Lobster', cursive;
     text-shadow: 2px 2px 4px #000000;
@@ -77,8 +76,6 @@ h1{
 
 .layer1{
     background-image: linear-gradient(to right, orange, white, orange);
-    /* background-size: cover;
-    object-fit: cover; */
     margin-top: 100px;
     display: flex;
     flex-direction: row;
@@ -86,7 +83,14 @@ h1{
     align-items: center;
     gap: 35px;
     padding: 1.25rem 0 3rem;
-    /* margin: 1.25rem 0; */
+
+}
+
+@media only screen and (max-width:1040px){
+    .layer1,.layer2 {
+        width: 100%;
+    }
+
 
 }
 
