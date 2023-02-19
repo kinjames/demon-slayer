@@ -1,7 +1,7 @@
 
 # Demon Slayer Fan Page
 
-This is a Demon Slayer Fan Page. 
+This is a Demon Slayer Fan Page for all Demon Slayer lovers.
 
 
 ## Features
