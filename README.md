@@ -21,6 +21,7 @@ It also consist of links to pages like the characters page, the download site,th
 
 - [HTML](https://html.com/)
 - [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.w3schools.com/css/)
 
 
 ## Contact
